@@ -21,13 +21,5 @@ One simple way to host is to forward a domain. Just paste your slate's url in th
 ### Contributions
 Feel free to open a pull request adding your new features, resolving issues, cleaning code or making this readme super awesome 😎 <br>
 
-### Screenshot.
-![Nothing Special, but here it is.](https://i.imgur.com/VO1hF1r.png "Home")
-
-### License
-Slate Notes is covered by the MIT License. <br>
-Copyright (C) 2018 ~ [Shouvik Mitra](http://iamshouvikmitra.github.io) ~ work.shouvikmitra@gmail.com
 
 
-### Inspiration
-This website is an inspiration from [itty.bitty.site](https://bitty.site/edit)
